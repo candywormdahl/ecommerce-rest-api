@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.scrollback": 1000000000,
+    "eslint.enable": false,
+    "standard.enable": false
+}
